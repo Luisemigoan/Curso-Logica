@@ -1,6 +1,6 @@
 # 🧠 Curso de Lógica de Programación
 
-¡Bienvenido al curso de **Lógica de Programación**! 🎯 Este curso está basado en el video ["Lógica de Programación desde Cero" de Fazt](https://www.youtube.com/watch?v=TdITcVD64zI) y te ayudará a desarrollar una base sólida para programar en cualquier lenguaje.
+¡Bienvenido al curso de **Lógica de Programación**! 🎯 Este curso está basado en el video ["Lógica de Programación desde Cero" de Brais Moure](https://www.youtube.com/watch?v=TdITcVD64zI) y te ayudará a desarrollar una base sólida para programar en cualquier lenguaje.
 
 ## 📌 ¿Qué aprenderás?
 ✔️ Conceptos básicos de lógica de programación.  
@@ -11,12 +11,20 @@
 ✔️ Práctica con ejercicios aplicados.  
 
 ## 📂 Contenidos
-1️⃣ **Introducción a la lógica de programación**  
-2️⃣ **Variables y tipos de datos**  
-3️⃣ **Estructuras condicionales** (`if`, `else`, `switch`)  
-4️⃣ **Bucles y ciclos** (`for`, `while`, `do while`)  
-5️⃣ **Funciones y modularidad**  
-6️⃣ **Ejercicios prácticos**  
+🏷️1. **Introducción**  
+🏷️2. **Sintaxis, variables y tipos de datos**  
+🏷️3️. **Operadores y estructuras de control**  
+🏷️4️. **Funciones y alcance**   
+🏷️5️. **Estructuras de datos**  
+🏷️6️. **Cadenas de carácteres**  
+🏷️7. **Valor y referencia**  
+🏷️8. **Recursividad**  
+🏷️9. **Pilas y colas**  
+🏷️10. **Clases**  
+🏷️11. **Herencia y polimorfismo**  
+🏷️12. **Excepciones**  
+🏷️13. **Manejo de ficheros**  
+🏷️14. **JSON y XML**  
 
 ## 🛠️ Requisitos
 - **Ganas de aprender** 💡  
@@ -24,11 +32,11 @@
 - Tener instalado **Python o JavaScript** para probar algunos ejemplos.  
 
 ## 🎯 Objetivo del curso
-Al finalizar este curso, serás capaz de **entender y aplicar la lógica de programación en cualquier lenguaje**, desarrollando soluciones eficientes a problemas computacionales.
+Al finalizar este curso, serás capaz de **entender y aplicar la lógica de programación en cualquier lenguaje**, desarrollando soluciones eficientes a problemas reales.
 
 ## 🔗 Enlace al video
-📺 Mira el curso aquí: [Lógica de Programación desde Cero - Fazt](https://www.youtube.com/watch?v=TdITcVD64zI)
+📺 Mira el curso aquí: [Lógica de Programación desde Cero - Brais Moure](https://www.youtube.com/watch?v=TdITcVD64zI)
 
 ---
-📌 **Autor:** *Tu Nombre o Usuario*
-📆 **Última actualización:** *[Fecha de hoy]*
+📌 **Autor:** *Luis González*
+📆 **Última actualización:** *[2025/03/05]*
