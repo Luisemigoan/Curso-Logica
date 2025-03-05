@@ -1,6 +1,6 @@
 # 🧠 Curso de Lógica de Programación
 
-¡Bienvenido a este repositorio con apuntes y ejercicios de **Lógica de Programación**! 🎯 Este repositorio está basado en el video ["Lógica de Programación desde Cero" de Brais Moure](https://www.youtube.com/watch?v=TdITcVD64zI) y te ayudará a desarrollar una base para programar en cualquier lenguaje.
+¡Bienvenido a este repositorio con apuntes y ejercicios de **Lógica de Programación**! 🎯 Este repositorio está basado en el video ["Curso de Lógica de Programación desde Cero" de Brais Moure](https://www.youtube.com/watch?v=TdITcVD64zI) y te ayudará a desarrollar una base para programar en cualquier lenguaje.
 
 ## 📌 ¿Qué aprenderás?
 ✔️ Conceptos básicos de lógica de programación.  
