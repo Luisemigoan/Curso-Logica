@@ -11,20 +11,20 @@
 ✔️ Práctica con ejercicios aplicados.  
 
 ## 📂 Contenidos
-🏷️1. **Introducción**  
-🏷️2. **Sintaxis, variables y tipos de datos**  
-🏷️3. **Operadores y estructuras de control**  
-🏷️4. **Funciones y alcance**   
-🏷️5. **Estructuras de datos**  
-🏷️6. **Cadenas de carácteres**  
-🏷️7. **Valor y referencia**  
-🏷️8. **Recursividad**  
-🏷️9. **Pilas y colas**  
-🏷️10. **Clases**  
-🏷️11. **Herencia y polimorfismo**  
-🏷️12. **Excepciones**  
-🏷️13. **Manejo de ficheros**  
-🏷️14. **JSON y XML**  
+* **Introducción**  
+* **Sintaxis, variables y tipos de datos**  
+* **Operadores y estructuras de control**  
+* **Funciones y alcance**   
+* **Estructuras de datos**  
+* **Cadenas de carácteres**  
+* **Valor y referencia**  
+* **Recursividad**  
+* **Pilas y colas**  
+* **Clases**  
+* **Herencia y polimorfismo**  
+* **Excepciones**  
+* **Manejo de ficheros**  
+* **JSON y XML**  
 
 ## 🛠️ Requisitos
 - **Ganas de aprender** 💡  
