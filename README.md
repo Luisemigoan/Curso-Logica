@@ -13,10 +13,10 @@
 ## 📂 Contenidos
 🏷️1. **Introducción**  
 🏷️2. **Sintaxis, variables y tipos de datos**  
-🏷️3️. **Operadores y estructuras de control**  
-🏷️4️. **Funciones y alcance**   
-🏷️5️. **Estructuras de datos**  
-🏷️6️. **Cadenas de carácteres**  
+🏷️3. **Operadores y estructuras de control**  
+🏷️4. **Funciones y alcance**   
+🏷️5. **Estructuras de datos**  
+🏷️6. **Cadenas de carácteres**  
 🏷️7. **Valor y referencia**  
 🏷️8. **Recursividad**  
 🏷️9. **Pilas y colas**  
